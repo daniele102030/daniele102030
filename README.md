@@ -6,7 +6,7 @@ Meu nome é Daniele Vieira
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-- ### você4 pode entrar em contato comigo 📫
+- ### você pode entrar em contato comigo 📫
 
  daniele.vieira10@escola.pr.gov.br
  
